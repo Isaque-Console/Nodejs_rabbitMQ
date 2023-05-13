@@ -1,0 +1,5 @@
+consumer/node_modules
+consumer/.env
+
+producer/node_modules
+producer/.env
